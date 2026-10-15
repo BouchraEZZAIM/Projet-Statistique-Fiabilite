@@ -232,21 +232,7 @@ Ce projet est réalisé dans un cadre **académique**. Libre d'utilisation à de
 
 ---
 
-## 👤 Auteur
 
-**Bouchra EZZAIM**
 
-- 🐙 GitHub : [@BouchraEZZAIM](https://github.com/BouchraEZZAIM)
-- 📧 Email : *(ajoutez votre email si vous le souhaitez)*
 
----
 
-## 🙏 Remerciements
-
-- **NASA Prognostics Center of Excellence** pour le dataset **C-MAPSS**
-- Documentation **SciPy** pour les fonctions Weibull et Kaplan-Meier
-- Communauté **scikit-learn** pour les outils de ML
-
----
-
-⭐ **Si ce projet vous a été utile, n'oubliez pas de lui donner une étoile !** ⭐
